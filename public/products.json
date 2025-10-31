@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "Ergonomic wireless mouse with long battery life"
+  },
+  {
+    "id": 2,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "category": "Electronics",
+    "description": "RGB mechanical keyboard with cherry switches"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": 34.99,
+    "category": "Accessories",
+    "description": "Adjustable aluminum laptop stand"
+  },
+  {
+    "id": 4,
+    "name": "USB-C Cable",
+    "price": 15.99,
+    "category": "Accessories",
+    "description": "High-speed USB-C charging cable"
+  },
+  {
+    "id": 5,
+    "name": "Monitor 27\"",
+    "price": 249.99,
+    "category": "Electronics",
+    "description": "4K UHD monitor with HDR support"
+  },
+  {
+    "id": 6,
+    "name": "Webcam HD",
+    "price": 49.99,
+    "category": "Electronics",
+    "description": "1080p HD webcam with auto-focus"
+  },
+  {
+    "id": 7,
+    "name": "Desk Mat",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "Large desk mat with wrist rest"
+  },
+  {
+    "id": 8,
+    "name": "Headphones",
+    "price": 79.99,
+    "category": "Electronics",
+    "description": "Noise-canceling over-ear headphones"
+  },
+  {
+    "id": 9,
+    "name": "USB Hub",
+    "price": 19.99,
+    "category": "Accessories",
+    "description": "4-port USB 3.0 hub"
+  },
+  {
+    "id": 10,
+    "name": "SSD 1TB",
+    "price": 99.99,
+    "category": "Electronics",
+    "description": "High-speed NVMe SSD"
+  },
+  {
+    "id": 11,
+    "name": "Cable Organizer",
+    "price": 9.99,
+    "category": "Accessories",
+    "description": "Cable management system"
+  },
+  {
+    "id": 12,
+    "name": "Gaming Chair",
+    "price": 199.99,
+    "category": "Furniture",
+    "description": "Ergonomic gaming chair with lumbar support"
+  }
+]
+
